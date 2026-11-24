@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+/spec.md
+/plan.md
+/tasks.md
+/test.md

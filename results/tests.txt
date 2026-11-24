@@ -1,0 +1,11 @@
+test_bao_loi_do_dai_va_ky_tu_sai (testcode.CipherTests) ... ok
+test_cac_trang_thai_aes_trong_sach (testcode.CipherTests) ... ok
+test_cac_trang_thai_des_trong_sach (testcode.CipherTests) ... ok
+test_ma_hoa_du_lieu_nhap_tu_dong_lenh (testcode.CipherTests) ... ok
+test_mo_phong_hai_vi_du_giao_trinh (testcode.CipherTests) ... ok
+test_phep_tinh_truong_huu_han_aes (testcode.CipherTests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.359s
+
+OK
